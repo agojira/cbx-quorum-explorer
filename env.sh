@@ -1,4 +1,5 @@
-QUORUM_ENDPOINTS=http://blockchain-pro.westeurope.cloudapp.azure.com:22000,http://blockchain-pro.westeurope.cloudapp.azure.com:22001
+#QUORUM_ENDPOINTS=http://blockchain-pro.westeurope.cloudapp.azure.com:22000,http://blockchain-pro.westeurope.cloudapp.azure.com:22001
+QUORUM_ENDPOINTS=http://blockchain-pro.westeurope.cloudapp.azure.com:22001
 EXTERNAL_API_PORT=443
 API_PORT=18081
 API_DOMAIN=api.arrakis.alastria.councilbox.com
